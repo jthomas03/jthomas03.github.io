@@ -1,0 +1,29 @@
+# Site settings
+title: John C. Thomas
+general_email: jthomas@gmail.com
+academic_email: jthomas@lbl.gov
+
+description: > # this means to ignore newlines until "baseurl:"
+  Illuminating the Future, Atom by Atom <br>
+  © 2022 by John C. Thomas. <br>
+  Powered by Jekyll & AcademicPages, modified from Academic Portfolio
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "https://jthomas03.github.io" # the base hostname & protocol for your site
+
+# twitter_username: jekyllrb
+github_username: jthomas03
+linkedin_username: john-c-thomas-56bb391b
+#facebook_username: facebook_username
+# feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+#theme: minima
+# Other options
+permalink: blog/:year/:month/:title
+

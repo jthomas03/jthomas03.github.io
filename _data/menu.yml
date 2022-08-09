@@ -1,0 +1,27 @@
+- title: "Home"
+  href: "/"
+
+- title: "Research"
+  href: "/research/"
+
+- title: "Publications"
+  href: "/publications/"
+
+- title: "Talks"
+  href: "/talks/"
+
+- title: "Software"
+  href: "/software/"
+
+- title: "News"
+  href: "/news/"
+#  subcategories:
+#    - subtitle: "Courses Undertaken"
+#      subhref: "/miscellany/courses/"
+#    - subtitle: "Extracurriculars"
+#      subhref: "/miscellany/extracurricular/"
+#    - subtitle: "Travel"
+#      subhref: "/miscellany/travel/"
+
+- title: "CV"
+  href: "/cv/"
